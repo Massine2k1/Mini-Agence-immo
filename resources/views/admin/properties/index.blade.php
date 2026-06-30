@@ -1,6 +1,6 @@
 @extends('admin.admin')
 
-@section('title','Tous les biens');
+@section('title','Tous les biens')
 @section('content')
 
     <div class="d-flex justify-content-between align-items-center">

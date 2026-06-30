@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Models\option;
+use App\Models\Option;
 use App\Http\Requests\Admin\OptionFormRequest;
 
 class OptionController extends Controller
